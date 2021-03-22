@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Registration</title>
+    <title>Edit Profile</title>
     <style>
         html {
             overflow-y: scroll;
