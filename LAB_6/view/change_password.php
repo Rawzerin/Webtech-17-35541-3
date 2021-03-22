@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Login</title>
+  <title>Change Password</title>
 </head>
 <style type="text/css">
   .error {
